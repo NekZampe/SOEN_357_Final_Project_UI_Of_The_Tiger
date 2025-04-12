@@ -1,8 +1,8 @@
-## 🚀 Getting Started with the React + Vite Project
+## Getting Started with the React + Vite Project
 
 Follow these instructions to set up and run the project locally.
 
-### 📦 Prerequisites
+### Prerequisites
 
 Make sure you have the following installed:
 
@@ -11,7 +11,7 @@ Make sure you have the following installed:
 
 ---
 
-### 🛠️ Installation
+### Installation
 
 1. **Clone the repository**
 
@@ -36,7 +36,7 @@ yarn
 
 ---
 
-### 🚙 Running the Development Server
+### Running the Development Server
 
 Start the Vite dev server:
 
@@ -53,11 +53,11 @@ yarn dev
 ```
 
 The app should now be running at:  
-📍 `http://localhost:5173`
+ `http://localhost:5173`
 
 ---
 
-### 🏗️ Build for Production
+### Build for Production
 
 To create a production-ready build:
 
@@ -71,7 +71,7 @@ The optimized output will be in the `dist/` folder.
 
 ---
 
-### 🔍 Preview Production Build
+### Preview Production Build
 
 To locally preview the build (after running `build`):
 
@@ -83,7 +83,7 @@ yarn preview
 
 ---
 
-### 📁 Project Structure (Optional)
+### Project Structure (Optional)
 
 ```
 ├── public/         # Static assets
