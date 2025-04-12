@@ -9,6 +9,6 @@
 ![image](https://github.com/user-attachments/assets/25e4ed5e-5f71-41b7-917f-f99a235058db)
 
 
-## 📘 Detailed Setup Instructions
+## Detailed Setup Instructions
 
 For full setup and installation steps, please refer to our [Setup Guide](https://github.com/NekZampe/SOEN_357_Final_Project_UI_Of_The_Tiger/blob/main/SETUP.md).
