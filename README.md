@@ -1,3 +1,6 @@
+# Demo
+![demo](https://github.com/user-attachments/assets/a84edfdb-4a88-4b6b-9ea8-49b5849165fe)
+
 # Student Home
 ![image](https://github.com/user-attachments/assets/91a47c1a-a7e5-41a5-8117-fe7b6bf85706)
 # Class Schedule
