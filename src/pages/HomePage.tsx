@@ -66,7 +66,7 @@ export default function StudentDashboard() {
         <List className="w-6 h-6 cursor-pointer" onClick={() => navigate('/list')} />
         <FileText className="w-6 h-6 cursor-pointer" onClick={() => navigate('/documents')} />
         <div className="bg-blue-300 p-1 rounded">
-        <Home className="w-6 h-6 cursor-pointer" onClick={() => navigate('/')} /></div>
+        <Home className="w-6 h-6 cursor-pointer" onClick={() => navigate('/home')} /></div>
         <Settings className="w-6 h-6 cursor-pointer" onClick={() => navigate('/settings')} />
       </div>
       </aside>
