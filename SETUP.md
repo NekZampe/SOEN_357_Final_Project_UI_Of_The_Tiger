@@ -82,17 +82,3 @@ yarn preview
 ```
 
 ---
-
-### Project Structure (Optional)
-
-```
-├── public/         # Static assets
-├── src/
-│   ├── assets/     # Images and styles
-│   ├── components/ # Reusable components
-│   ├── pages/      # Pages or views
-│   └── main.jsx    # App entry point
-├── index.html
-├── package.json
-├── vite.config.js
-```
